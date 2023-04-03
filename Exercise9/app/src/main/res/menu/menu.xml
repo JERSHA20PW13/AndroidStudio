@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/hide"
+        android:title="hide" />
+    <item android:id="@+id/size"
+        android:title="increase font size" />
+    <item android:id="@+id/color"
+        android:title="change text color" />
+    <item android:id="@+id/play"
+        android:title="play" />
+    <item android:id="@+id/exit"
+        android:title="exit" />
+</menu>
